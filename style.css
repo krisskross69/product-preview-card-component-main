@@ -10,7 +10,7 @@ body {
 
 section {
     display: inline-flex;
-    width: 480px;
+    width: 550px;
     background-color: white;
     border-radius: 1em;
 }
@@ -32,7 +32,7 @@ div.text {
     width: 100%;
 }
 
-p#info {
+p.info {
     color: hsl(0, 1%, 55%);
     font-size: 0.7rem;
     font-weight: 500;
@@ -118,7 +118,7 @@ div.attribution {
         width: 90%;
     }
 
-    p#info {
+    p.info {
         color: hsl(0, 1%, 55%);
         font-size: 0.8rem;
         font-weight: 500;
